@@ -26,25 +26,25 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link to="/" className="navbar-item">
-                        Home
+                        Inicio
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/about">
-                        About
+                        Nosotros
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/products">
-                        Products
+                        Compromiso
                       </Link>
                     </li>
-                    <li>
+                   {/* <li>
                       <Link className="navbar-item" to="/contact/examples">
                         Form Examples
                       </Link>
-                    </li>
-                    <li>
+                   </li>*/}
+                   {/* <li>
                       <a
                         className="navbar-item"
                         href="/admin/"
@@ -52,8 +52,8 @@ const Footer = class extends React.Component {
                         rel="noopener noreferrer"
                       >
                         Admin
-                      </a>
-                    </li>
+                   </a> 
+                    </li> */}
                   </ul>
                 </section>
               </div>
@@ -62,12 +62,12 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link className="navbar-item" to="/blog">
-                        Latest Stories
+                        Últimas Noticias
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/contact">
-                        Contact
+                        Contacto
                       </Link>
                     </li>
                   </ul>
@@ -96,12 +96,12 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="vimeo" href="https://vimeo.com">
-                  <img
+                <a title="ggcon" href="http://ggcon.com.ar">
+                  {/*<img
                     src={vimeo}
                     alt="Vimeo"
                     style={{ width: '1em', height: '1em' }}
-                  />
+                  />*/} Creado por ggcon
                 </a>
               </div>
             </div>
