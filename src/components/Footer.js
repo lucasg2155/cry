@@ -36,7 +36,7 @@ const Footer = class extends React.Component {
                     </li>
                     <li>
                       <Link className="navbar-item" to="/products">
-                        Compromiso
+                        Beneficios
                       </Link>
                     </li>
                    {/* <li>
@@ -101,7 +101,7 @@ const Footer = class extends React.Component {
                     src={vimeo}
                     alt="Vimeo"
                     style={{ width: '1em', height: '1em' }}
-                  />*/} Creado por ggcon
+                  />*/} &#169 2020 Creado por ggcon
                 </a>
               </div>
             </div>
