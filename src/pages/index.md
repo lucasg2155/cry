@@ -1,21 +1,17 @@
 ---
 templateKey: index-page
-title:  CENTRO DE EMPLEADOS DE COMERCIO USHUAIA #Great coffee with a conscience
+title: CENTRO DE EMPLEADOS DE COMERCIO USHUAIA
 image: /img/home-jumbotron.jpg
-heading:  ESTAMOS SIEMPRE PENSANDO EN TI... #Great coffee with a conscience
-subheading:  Nuestro compromiso es con el trabajador #Support sustainable farming while enjoying a cup
+heading: ESTAMOS SIEMPRE PENSANDO EN TI...
+subheading: Nuestro compromiso es con el trabajador
 mainpitch:
-  title: CECU #Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: CECU
+  description: |2
+     para Netlify CMS está configurado para usar los mismos campos utilizados en la guía, por lo que puede seguir las instrucciones al pie de la letra y debería funcionar bien. Nota: Al configurar el gatsby-source-filesystemcomplemento en la Guía para agregar páginas de rebajas, la ruta a sus archivos de rebajas debe ser ${__dirname}/blog.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Al configurar el gatsby-source-filesystemcomplemento en la Guía para agregar
+  páginas de rebajas, la ruta a sus archivos de rebajas debe ser
+  ${__dirname}/blog.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -68,3 +64,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
