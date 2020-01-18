@@ -1,19 +1,23 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: nuestros valores
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### amistad
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+El hombre necesita la confianza, es un pequeño árbol o arbusto que crece en el sotobosque del bosque en su forma silvestre, y tradicionalmente se cultivaba comercialmente bajo otros árboles que proporcionaban sombra. La estructura similar a un bosque de los cafetales de sombra proporciona hábitat para una gran cantidad de especies migratorias y residentes.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### compromiso
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+El compromiso cultivado dentro de un único origen geográfico conocido. A veces, esta es una granja individual o una colección específica de frijoles de un solo país. El nombre del café suele ser el lugar donde se cultivó en cualquier grado disponible.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Ayuda
+
+La ayuda sostenible es la agricultura de manera sostenible basada en la comprensión de los servicios del ecosistema, el estudio de las relaciones entre los organismos y su entorno. Lo que crece dónde y cómo se cultiva es una cuestión de elección y consideración cuidadosa de la naturaleza y las comunidades.
+
+### acompañamiento
+
+El comercio directo es una forma de abastecimiento que practican algunos tostadores de café. Los defensores de las prácticas comerciales directas promueven la comunicación directa y la negociación de precios entre el comprador y el agricultor, junto con sistemas que fomentan e incentivan la calidad.
+
+### Reinvertir ganancias
+
+Queremos empoderar verdaderamente a las comunidades que le traen un café increíble. Es por eso que reinvertimos el 20% de nuestras ganancias en granjas, negocios locales y escuelas en todas partes donde se cultiva nuestro café. Puede ver crecer a las comunidades y aprender más sobre el cultivo de café en nuestro blog.
