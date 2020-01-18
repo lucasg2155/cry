@@ -101,7 +101,7 @@ const Footer = class extends React.Component {
                     src={vimeo}
                     alt="Vimeo"
                     style={{ width: '1em', height: '1em' }}
-                  />*/} &copi; 2020 por ggcon
+                  />*/} <h3>&copi;</h3>2020 por ggcon
                 </a>
               </div>
             </div>
